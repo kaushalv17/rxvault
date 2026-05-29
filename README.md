@@ -241,4 +241,4 @@ Open **http://localhost:3000** → use demo credentials above.
 
 ---
 
-*Built by [Your Name] · Jaypee Brothers Medical Publishers Assessment 2025*
+
